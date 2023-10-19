@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "basic.json"
+  ],
+  "homeserver_url": "https://matrix.itsanon.xyz"
+}
